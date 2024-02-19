@@ -1,0 +1,6 @@
+ID;Pytanie;PoprawnaOdpowiedz;Odpowiedz1;Odpowiedz2;Odpowiedz3;Odpowiedz4
+1;Jakie jest najpopularniejsze nazwisko w Polsce?;1; Kowalski; Nowak; Wiśniewski; Kusmider
+2;Ktora z tych roślin jest drzewem?;1; Sosna; Trawa ; Maki ; Mniszek
+3;Jaka jest stolica Francji?;1; Paryż; Berlin; Londyn; Madryt
+4;Ile ma liter w alfabecie?;4;24;26;29;32
+5;Ktora planeta jest najblizsza Slonca?;1;Wenus;Ziemia;Mars;Merkury
